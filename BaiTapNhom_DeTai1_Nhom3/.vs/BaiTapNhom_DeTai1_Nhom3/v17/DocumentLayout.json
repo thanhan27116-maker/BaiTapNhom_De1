@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\BaiTapNhom_DeTai1_Nhom3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB5DF02-43C1-4108-B8E9-F5AE39EA5B26}|..\\GUI_QLDT\\GUI_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\gui_qldt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\linhvuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\idetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\detailythuyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA544DC6-2020-4F75-A00E-93A922F68F7E}|..\\DAL_QLDT\\DAL_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dal_qldt\\danhsachdetaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\detai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\Data\\DSDETAI.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\detaikinhte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC861BA8-73B5-4BDD-B0F9-8160C212C419}|..\\DTO_QLDT\\DTO_QLDT.csproj|c:\\h\u1ECDc\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\detai1_nhom33\\dto_qldt\\detaicongnghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\GUI_QLDT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLDT\\Program.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\GUI_QLDT\\Program.cs",
+              "RelativeToolTip": "..\\GUI_QLDT\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwF8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:40:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDeTai.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\IDeTai.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\IDeTai.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\IDeTai.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\IDeTai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:39:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinhVuc.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\LinhVuc.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\LinhVuc.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\LinhVuc.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\LinhVuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:38:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeTaiLyThuyet.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiLyThuyet.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\DeTaiLyThuyet.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiLyThuyet.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\DeTaiLyThuyet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:37:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachDeTaiDAL.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DAL_QLDT\\DanhSachDeTaiDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL_QLDT\\DanhSachDeTaiDAL.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DAL_QLDT\\DanhSachDeTaiDAL.cs",
+              "RelativeToolTip": "..\\DAL_QLDT\\DanhSachDeTaiDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:20:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DSDETAI.xml",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\Data\\DSDETAI.xml",
+              "RelativeDocumentMoniker": "..\\Data\\DSDETAI.xml",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\Data\\DSDETAI.xml",
+              "RelativeToolTip": "..\\Data\\DSDETAI.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T10:19:18.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeTaiKinhTe.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiKinhTe.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\DeTaiKinhTe.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiKinhTe.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\DeTaiKinhTe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:48:01.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeTaiCongNghe.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiCongNghe.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\DeTaiCongNghe.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTaiCongNghe.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\DeTaiCongNghe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:46:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeTai.cs",
+              "DocumentMoniker": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTai.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLDT\\DeTai.cs",
+              "ToolTip": "C:\\H\u1ECDc\\L\u1EADp Tr\u00ECnh H\u01B0\u1EDBng \u0110\u1ED1i T\u01B0\u1EE3ng\\DeTai1_Nhom33\\DTO_QLDT\\DeTai.cs",
+              "RelativeToolTip": "..\\DTO_QLDT\\DeTai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:45:40.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

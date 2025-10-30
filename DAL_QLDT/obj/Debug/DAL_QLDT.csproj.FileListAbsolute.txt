@@ -1,0 +1,9 @@
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\bin\Debug\DAL_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\bin\Debug\DAL_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\bin\Debug\DTO_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\bin\Debug\DTO_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\obj\Debug\DAL_QLDT.csproj.AssemblyReference.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\obj\Debug\DAL_QLDT.csproj.CoreCompileInputs.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\obj\Debug\DAL_QLDT.csproj.Up2Date
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\obj\Debug\DAL_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DAL_QLDT\obj\Debug\DAL_QLDT.pdb

@@ -1,0 +1,6 @@
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\bin\Debug\DTO_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\bin\Debug\DTO_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\obj\Debug\DTO_QLDT.csproj.AssemblyReference.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\obj\Debug\DTO_QLDT.csproj.CoreCompileInputs.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\obj\Debug\DTO_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\DTO_QLDT\obj\Debug\DTO_QLDT.pdb

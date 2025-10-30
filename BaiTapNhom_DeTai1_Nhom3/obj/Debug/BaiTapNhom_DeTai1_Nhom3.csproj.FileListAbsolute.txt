@@ -1,0 +1,8 @@
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\bin\Debug\BaiTapNhom_DeTai1_Nhom3.exe.config
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\bin\Debug\BaiTapNhom_DeTai1_Nhom3.exe
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\bin\Debug\BaiTapNhom_DeTai1_Nhom3.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\obj\Debug\BaiTapNhom_DeTai1_Nhom3.csproj.AssemblyReference.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\obj\Debug\BaiTapNhom_DeTai1_Nhom3.csproj.CoreCompileInputs.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\obj\Debug\BaiTapNhom_DeTai1_Nhom3.exe
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\obj\Debug\BaiTapNhom_DeTai1_Nhom3.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BaiTapNhom_DeTai1_Nhom3\obj\Debug\BaiTapNhom_DeTai1_Nhom3.exe.config
