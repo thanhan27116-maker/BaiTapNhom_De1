@@ -9,3 +9,14 @@ C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BLL_QLDT\obj\Debug\
 C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BLL_QLDT\obj\Debug\BLL_QLDT.csproj.Up2Date
 C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BLL_QLDT\obj\Debug\BLL_QLDT.dll
 C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom33\BLL_QLDT\obj\Debug\BLL_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\BLL_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\BLL_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\DAL_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\DTO_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\DAL_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\bin\Debug\DTO_QLDT.pdb
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\obj\Debug\BLL_QLDT.csproj.AssemblyReference.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\obj\Debug\BLL_QLDT.csproj.CoreCompileInputs.cache
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\obj\Debug\BLL_QLDT.csproj.Up2Date
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\obj\Debug\BLL_QLDT.dll
+C:\Học\Lập Trình Hướng Đối Tượng\DeTai1_Nhom3\BLL_QLDT\obj\Debug\BLL_QLDT.pdb
