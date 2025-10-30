@@ -72,11 +72,11 @@ namespace De1_BaiTapNhom_Nhom3
             }
             catch (XmlException)
             {
-                Console.WriteLine("⚠️ Lỗi: File XML không đúng định dạng!");
+                Console.WriteLine(" Lỗi: File XML không đúng định dạng!");
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"⚠️ Lỗi không xác định: {ex.Message}");
+                Console.WriteLine($" Lỗi không xác định: {ex.Message}");
             }
 
             return dsdtai;
